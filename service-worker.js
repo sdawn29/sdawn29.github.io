@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e500cd02fd375ae4ac35183bdf2f3ec2.js"
+  "/precache-manifest.9ff6e2153e7c3603f5eb0c39682583de.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "devopsly"});
